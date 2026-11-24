@@ -5,7 +5,7 @@ I mostly build backends with Python (Django) and Node.js.
 Looking for a co-op internship starting June 2027.
 
 ## Projects
-- **[TORmax](link-to-repo)**: aggregates Thai government IT procurement notices and uses Gemini to extract and verify data from TOR PDFs. Node.js, Express, MongoDB, Vertex AI.
+- **[TORmax](https://github.com/TORmax-KU/TORmax)**: aggregates Thai government IT procurement notices and uses Gemini to extract and verify data from TOR PDFs. Node.js, Express, MongoDB, Vertex AI.
 - **[Spootify](https://github.com/GotAdithep/ex3-spootify)**: AI song generator with Google sign-in and expiring share links. Django, DRF, Suno API.
 - **[Supermarket Management System](https://github.com/JirakornChaitanaporn/DB-project-mongo-supermarket)**: full-stack CRUD app for 9 data entities. React Router, TypeScript, MongoDB.
 
