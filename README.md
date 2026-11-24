@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Adithep 👋
 
-<!--
-**GotAdithep/GotAdithep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Software and Knowledge Engineering student at Kasetsart University.
+I mostly build backends with Python (Django) and Node.js.
+Looking for a co-op internship starting June 2027.
 
-Here are some ideas to get you started:
+## Projects
+- **[TORmax](link-to-repo)**: aggregates Thai government IT procurement notices and uses Gemini to extract and verify data from TOR PDFs. Node.js, Express, MongoDB, Vertex AI.
+- **[Spootify](https://github.com/GotAdithep/ex3-spootify)**: AI song generator with Google sign-in and expiring share links. Django, DRF, Suno API.
+- **[Supermarket Management System](https://github.com/JirakornChaitanaporn/DB-project-mongo-supermarket)**: full-stack CRUD app for 9 data entities. React Router, TypeScript, MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python · JavaScript · TypeScript · Django · Express · React · Next.js · MongoDB · MySQL · Docker · GitHub Actions
+
+## Contact
+📧 got.adithep@gmail.com
